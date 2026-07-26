@@ -1,0 +1,11 @@
+# 국민신문고 원본 및 점검 결과
+*.xlsx
+*.xls
+*.xlsm
+~$*
+
+# Python 실행 환경
+__pycache__/
+*.py[cod]
+.venv/
+venv/
